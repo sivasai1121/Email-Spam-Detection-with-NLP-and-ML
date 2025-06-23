@@ -60,5 +60,7 @@ Typical results:
 
 ---
 
-## 📊 Sample Output
+## Sample Output
+![Image](https://github.com/user-attachments/assets/1dfdadd6-aa34-4adf-917d-a8dcfd1d6cd2)
 
+![Image](https://github.com/user-attachments/assets/3c433c60-74d7-41d5-91d0-d403b3cb1ef8)
